@@ -8,7 +8,7 @@ export const CamelCase: React.FC = () => {
       <header className="App-header">
         <img className="App-logo" alt="logo" src={logo} />
         <p>
-          Edit <code> src/App.tsx</code>
+          Develop Branch <code> src/App.tsx</code>
           and save to reload.
         </p>
         <a

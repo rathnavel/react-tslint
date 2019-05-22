@@ -1,0 +1,13 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.tslintIntegration": true,
+    "tslint.alwaysShowRuleFailuresAsWarnings": false,
+    "typescript.suggest.completeJSDocs": false,
+    "javascript.suggest.completeJSDocs": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "docthis.includeDescriptionTag": true,
+}
